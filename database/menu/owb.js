@@ -33,6 +33,6 @@ const owb = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _re
 ├ *${prefix}unban*
 ├ *${prefix}event1/0*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.owb = owb
