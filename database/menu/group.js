@@ -39,6 +39,6 @@ const groupm = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 ├ *${prefix}fitnah*
 ├ *${prefix}hidetag*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.groupm = groupm
