@@ -49,6 +49,6 @@ const anime = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 ├ *${prefix}holo
 ├ *${prefix}wallpapernime
 ├
-└──「 *REM BOT* 」`
+└──「 *abay bot*」`
 }
 exports.anime = anime
