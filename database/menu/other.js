@@ -26,6 +26,6 @@ const other = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 ├ *${prefix}nulis1*
 ├ *${prefix}nulis2*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.other = other
