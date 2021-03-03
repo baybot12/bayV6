@@ -21,6 +21,6 @@ const dompet = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 ├ *${prefix}transfer*
 ├ *${prefix}buylimit*
 ├ 
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.dompet = dompet
