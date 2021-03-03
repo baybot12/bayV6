@@ -31,6 +31,6 @@ const gabut = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 ├ *${prefix}timer*
 ├ *${prefix}simi*
 ├ 
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.gabut = gabut
