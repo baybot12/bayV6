@@ -43,6 +43,6 @@ const vip = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _re
 ├ *${prefix}cloudtext*
 ├ *${prefix}neontext*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.vip = vip
