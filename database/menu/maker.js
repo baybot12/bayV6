@@ -43,6 +43,6 @@ const maker = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 ├ *${prefix}textlight*
 ├ *${prefix}glitch*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.maker = maker
