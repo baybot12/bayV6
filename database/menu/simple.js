@@ -29,6 +29,6 @@ const simple = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 ├ *${prefix}memeindo*
 ├ *${prefix}profile*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.simple = simple
