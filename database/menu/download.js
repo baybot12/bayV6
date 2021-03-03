@@ -24,6 +24,6 @@ const download = (pushname, prefix, botName, ownerName, getLevelingLevel, sender
 ├ *${prefix}ytmp4*
 ├ *${prefix}joox*
 ├ 
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.download = download
