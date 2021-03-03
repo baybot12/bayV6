@@ -22,9 +22,9 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+### CARA INSTALLNYA  
 Script ini di modifikasi sama saya sendiri abay.
-```bash
+
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/baybot12/abayV6
