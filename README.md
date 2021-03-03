@@ -10,9 +10,9 @@ MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+### ALAT DAN BAHAN 
 Siapin alat dan bahannya.
-```bash
+
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
 > jaringan internet kenceng,kuota+
