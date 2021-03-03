@@ -29,6 +29,6 @@ const random = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 ├ *${prefix}bokep*
 ├ *${prefix}darkjones*
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.random = random
