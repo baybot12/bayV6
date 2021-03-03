@@ -49,6 +49,6 @@ const sound = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 ├ *${prefix}paplepap*
 ├ *${prefix}paplepapslow
 ├
-└──「 *REM BOT* 」`
+└──「 *ABAY BOT* 」`
 }
 exports.sound = sound
